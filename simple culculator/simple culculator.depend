@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1690862974 source:c:\c language\simple culculator\main.c
+	<stdio.h>
+	<stdlib.h>
+

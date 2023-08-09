@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1690860579 source:c:\c language\tempreture\main.c
+	<stdio.h>
+	<ctype.h>
+

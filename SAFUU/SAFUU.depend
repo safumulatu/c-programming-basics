@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1690787760 source:c:\c language\safuu\main.c
+	<stdio.h>
+	<stdlib.h>
+

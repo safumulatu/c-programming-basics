@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1691395147 source:c:\c language\m management\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
